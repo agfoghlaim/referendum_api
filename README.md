@@ -58,7 +58,7 @@ https://rocky-gorge-91285.herokuapp.com/api
 ## About the Data
 
 
-An official api for the results of the 2018 referendum only, is available through data.gov.ie
+An official api for the results of the 2018 referendum only, is available through data.gov.ie.  
 Most other referendum results are available from the same site in .csv format only.
 
 Based on a quick comparison with the wikipedia article for Irish Amendments to the Constitution, 4 referendums seem to be missing from the results on data.gov.ie ...
