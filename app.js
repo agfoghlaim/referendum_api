@@ -52,10 +52,10 @@ app.use((error, req, res, next) =>{
 	})
 })
 	//for local
-	const port = process.env.PORT || 5000;
+	//const port = process.env.PORT || 5000;
 
 	//for remote
-	//const port = process.env.PORT || 8080;
+	const port = process.env.PORT || 8080;
 
 	app.listen(port, () => console.log('server started'));
 
