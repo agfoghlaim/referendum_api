@@ -1,5 +1,5 @@
 module.exports = {
-mongoURI: HEROKU_ENV_VAR_TBC,
-mongoUSR: HEROKU_ENV_VAR_TBC,
-mongoPASS: HEROKU_ENV_VAR_TBC
+mongoURI: MLAB_URI,
+mongoUSR: MLAB_USERNAME,
+mongoPASS: MLAB_PASS
 }
